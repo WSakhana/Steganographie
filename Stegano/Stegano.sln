@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steganographie", "..\..\..\..\Desktop\MiniProjet_Stéganographie\MiniProjet_Stéganographie\Steganographie.csproj", "{E1AE461C-F45D-495F-97CA-5DCE9AF76646}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steganographie", "Stéganographie\Steganographie.csproj", "{E1AE461C-F45D-495F-97CA-5DCE9AF76646}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
