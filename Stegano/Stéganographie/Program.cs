@@ -13,9 +13,6 @@ namespace MiniProjet_Stéganographie
         /// </summary>
         /// 
 
-
-        
-
         [STAThread]
         static void Main()
         {
